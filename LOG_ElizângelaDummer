@@ -1,0 +1,49 @@
+    1  user
+    2  git config
+    3  git--version
+    4  mkdir - p~~/git/es2
+    5  git config==global user.nome
+    6  git config==global user. nome"Elizangela Dummer"
+    7  git version
+    8  git config--global user.name "Elizangela Dummer Ferreira"
+    9  git config --global user. email "elizdumer09@gmail.com
+   10  "
+   11  gitconfig--global user.email "elizdumer09@gmail.com"
+   12  clear
+   13  git confing user .name
+   14  clear
+   15  git config user.name "Elizangela Dummer Ferreira"
+   16  git config user.email "elizdumer09@gmail.com"
+   17  clear
+   18  git config user.name
+   19  cd TIG-etseT/
+   20  git restore .
+   21  git restore .
+   22  git reset
+   23  git restore .
+   24  git init 
+   25  npm install
+   26  git checkout -b feature/soma 
+   27  git add .
+   28  git commit -m "adição da função soma"
+   29  git push origin feature/soma 
+   30  git checkout master 
+   31  git checkout -b feature/subtração
+   32  git add . 
+   33  git commit -m "adição da função subtração" 
+   34  git checkout master 
+   35  git branch -D feature/subtração 
+   36* git 
+   37  git checkout -b feature/subtração
+   38  git add . 
+   39  git commit -m "adição da função subtração" 
+   40  git push origin feature/subtração 
+   41  git checkout master 
+   42  git pull
+   43  git tag -a 1.0.0 -m "Criando a primeira versão" 
+   44  git add .
+   45  git commit -m "adição do readme e primeira versão"
+   46  git push origin master 
+   47  git pull
+   48  git push origin master 
+   49  history > LOG_ElizângelaDummer
