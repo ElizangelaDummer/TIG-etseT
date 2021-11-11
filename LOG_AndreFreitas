@@ -1,0 +1,28 @@
+    1  fydtugku
+    2  git config ==global user.name "Andre Freitas"
+    3  git config --list cd
+    4  ~ git config --global user.name "Andre Freitas"
+    5  ~ mkdir -p ~/git/es2
+    6  git config --list 
+    7  ~ mkdir -p ~/git/es2
+    8  ~ cd ~/git/es
+    9  ~ git config --global user.name "Andre Freitas"
+   10  ~cd --
+   11  cd --
+   12  git clone https://github.com/ElizangelaDummer/TIG-etseT.git
+   13  cd TIG-etseT/
+   14  git checkout -b
+   15  git checkout -b feature/multiplicação
+   16  git add .
+   17* 
+   18  git add .
+   19  git commit -m "adição da função multiplicação"
+   20  git push origin feature/multiplicação 
+   21  git checkout master
+   22  git checkout -b feature/divisão
+   23  git add .
+   24  git commit -m "adição da função divisão"
+   25  git push origin feature/divisão 
+   26  git checkout master
+   27  git pull
+   28  history > LOG_AndreFreitas
